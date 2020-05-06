@@ -1,0 +1,1 @@
+a = input('Quem é o leite ninho ? :')
